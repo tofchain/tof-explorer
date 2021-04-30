@@ -3,7 +3,7 @@
 
 ## Contribution
 
-Contributions to TOF are welcomed! We sincerely invite developers who experienced in blockchain field to join in TOF technology community. Details: s: https://nuls.communimunity/d/9-recruitment-of-community-developers To be a great community, Tof needs to welcome developers from all walks of life, with different backgrounds, and with a wide range of experience.
+Contributions to TOF are welcomed! We sincerely invite developers who experienced in blockchain field to join in TOF technology community. Tof needs to welcome developers from all walks of life, with different backgrounds, and with a wide range of experience.
 
 ## License
 
